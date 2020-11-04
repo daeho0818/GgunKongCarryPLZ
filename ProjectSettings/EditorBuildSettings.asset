@@ -12,18 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Messenger.unity
     guid: 26686bb42540add449f58c97bc1c2b6f
   - enabled: 1
-    path: Assets/Scenes/Comu1.unity
+    path: Assets/Scenes/NPC1/WaitForChat.unity
+    guid: b6fb5468057ba1d4b9c9067f54241d76
+  - enabled: 1
+    path: Assets/Scenes/NPC1/Chating.unity
     guid: 07489fb41fa9ab848b3f0ea6075cc11f
   - enabled: 1
     path: Assets/Scenes/miniGame.unity
     guid: a2332b8547fd7b54793771a0fe45415c
   - enabled: 1
-    path: Assets/Scenes/Friend1Comu.unity
+    path: Assets/Scenes/NPC1/Friend1Comu.unity
     guid: babf0c1e6124042429aec34f519287bd
   - enabled: 1
-    path: Assets/Scenes/friend2Comu.unity
+    path: Assets/Scenes/NPC1/Friend2Comu.unity
     guid: c21ec082b2fdfa649a3985228f0ec442
   - enabled: 1
-    path: Assets/Scenes/Friend3Comu.unity
+    path: Assets/Scenes/NPC1/Friend3Comu.unity
     guid: 2288dc6bfe784654189e88bbac2a0ed2
   m_configObjects: {}
